@@ -1,5 +1,5 @@
 # 忽略 Python 虚拟环境
-./work/
+/work/
 
 # 忽略 Vim 交换文件
 *.swp
@@ -20,6 +20,6 @@ config.ini
 .DS_Store
 Thumbs.db
 
-./1
-./2
+/1
+/2
 */txt
